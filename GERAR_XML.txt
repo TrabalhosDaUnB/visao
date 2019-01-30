@@ -1,5 +1,6 @@
 1 - executar na pasta de negativos o arquivo .exe e gerar um txt
 2 - executar na pasta de positivos o arquivo .exe e seccionar a região da imagem para o treinamento da máquina (seleciona e finaliza com a barra de espaco)
 3 - na pasta vector um arquivo vai ser criado
-4 - executar mais um haar training exe (haha acho que na pasta raiz do programa) e esperar o treinamento
-5 - executar o convert e ele criará o arquivo do treinamento "myhaar.xml"
+5 - executar o samplecreeating.exe
+5 - executar mais um haar training exe (haha acho que na pasta raiz do programa) e esperar o treinamento
+6 - executar o convert e ele criará o arquivo do treinamento "myhaar.xml"
